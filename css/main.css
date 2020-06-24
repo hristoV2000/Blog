@@ -1,0 +1,30 @@
+/*Colors
+
+Backbround:
+0B0C10
+
+Secondary Backbround:
+1F2833
+Gray
+C5C6C7
+
+Primary:
+66FCF1
+
+Secondary:
+45A29
+*/
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 700;
+}
+
+/* Header */
+
+.navbar {
+    background-color: #0B0C10;
+}
